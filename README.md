@@ -25,7 +25,7 @@
 
 ## Структура репозиторію
 
-app.py — основний код застосунку
-requirements.txt — залежності
-yoga_history.txt — (генерується автоматично) історія тренувань
-efficientnetb0_yoga_model.keras — модель (посилання для завантаження: https://drive.google.com/file/d/1SJLYtf0UT0KOgnyUvFgfTzNNcul3Ug62/view?usp=sharing)
+- app.py — основний код застосунку
+- requirements.txt — залежності
+- yoga_history.txt — (генерується автоматично) історія тренувань
+- efficientnetb0_yoga_model.keras — модель (посилання для завантаження: https://drive.google.com/file/d/1SJLYtf0UT0KOgnyUvFgfTzNNcul3Ug62/view?usp=sharing)
